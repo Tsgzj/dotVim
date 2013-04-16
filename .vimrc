@@ -7,6 +7,7 @@
 " default
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " For vundle
+set t_Co=256
 set nocompatible
 filetype off
 set rtp+=~/.vim/bundle/vundle/
